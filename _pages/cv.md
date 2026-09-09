@@ -4,5 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 1
-redirect_to: /assets/pdf/Bennett_CV_Fall2026.pdf
+cv_pdf: /assets/pdf/Bennett_CV_Fall2026.pdf
+---
+[**Download my CV (PDF)**](/assets/pdf/Bennett_CV_Fall2026.pdf){:target="_blank"}
 ---
