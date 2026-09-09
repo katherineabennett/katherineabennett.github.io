@@ -29,4 +29,4 @@ latest_posts:
 
 Welcome! I am a Ph.D. candidate at Johns Hopkins University working with Professor David Sing on observations of exoplanets and their atmospheres. I am driven by the desire to understand the diversity of atmospheres and surfaces on nearby worlds, and how host stars ultimately impact the fate of their planets.  
 
-Prior to becoming an astronomer, I worked as an exercise physiologist at University of Florida Health Shands Hospital after receiving my B.S./M.S. in kinesiology from the University of Florida. I ultimately returned to school to pursue my passion, receiving a master's degree from Wesleyan University before joining the Earth & Planetary Sciences Department at JHU. 
+Prior to becoming an astronomer, I worked as an exercise physiologist at University of Florida Health Shands Hospital after receiving my B.S./M.S. in kinesiology from the University of Florida. I ultimately returned to school to pursue my passion, receiving a master's degree in astronomy from Wesleyan University before joining the Earth & Planetary Sciences Department at JHU. 
