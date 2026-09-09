@@ -1,8 +1,8 @@
 ---
-layout: none
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
 nav_order: 1
-redirect: /assets/pdf/Bennett_CV_Fall2026.pdf
+external_url: /assets/pdf/Bennett_CV_Fall2026.pdf
 ---
