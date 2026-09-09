@@ -1,8 +1,8 @@
 ---
-layout: none
+layout: redirect
 permalink: /cv/
-title: CV
+redirect_to: /assets/pdf/Bennett_CV_Fall2026.pdf
 nav: true
 nav_order: 1
-redirect: /assets/pdf/Bennett_CV_Fall2026.pdf
+title: CV
 ---
