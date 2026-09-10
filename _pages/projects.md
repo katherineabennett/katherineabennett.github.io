@@ -28,7 +28,7 @@ html[data-theme="dark"] .projects h2.category {
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <figure style="margin: 0; margin-right: 20px;">
     <img src="/assets/img/Bennett_2025_ltt1445ab_hst.png" alt="LTT 1445 A b HST observations" style="width: 350px; border-radius: 5px;">
-    <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 200px;">Figure 13 from <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....169..111B/abstract">Bennett et al. 2025a</a>. </figcaption>
+    <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 350px;">Figure 13 from <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....169..111B/abstract">Bennett et al. 2025a</a>. </figcaption>
   </figure>
   <div>
     <p>I led a <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....169..111B/abstract">paper</a> on reconnaissance HST transmission spectroscopy observations of LTT 1445 A b, a 1.3 Earth radii planet orbiting an M dwarf in a unique, hierarchical triplet system. The spectrum is statistically consistent with a no-atmosphere case but displayed potential features that I will follow up on as <a href="https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7251B/abstract">PI of an accepted JWST program</a> that will execute in 2027. This planet is also being targeted by the <a href="https://rockyworlds.stsci.edu/index.html">Rocky Worlds Director's Discretionary Time Program</a> (DDT), which uses the complementary technique of emission photometry, so my observations will work synergistically with the DDT to provide the tightest constraint on an atmosphere to-date.</p>
@@ -38,7 +38,7 @@ html[data-theme="dark"] .projects h2.category {
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <figure style="margin: 0; margin-right: 20px;">
     <img src="/assets/img/Bennett_2025_gj1132b.png" alt="GJ 1132 b JWST observations" style="width: 500px; border-radius: 5px;">
-    <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 200px;">Figure 6 from <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....170..205B/abstract">Bennett et al. 2025b</a>. </figcaption>
+    <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 500px;">Figure 6 from <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....170..205B/abstract">Bennett et al. 2025b</a>. </figcaption>
   </figure>
   <div>
     <p>I was the first to demonstrate the utility of combining constraints from emission and transmission in my <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....170..205B/abstract">paper</a> on the JWST transmission spectrum of GJ 1132 b. This was accomplished through a large team effort via the <a href="https://ui.adsabs.harvard.edu/abs/2021jwst.prop.1981S/abstract">No Air JWST program</a>, and we now have the new <a href="https://ui.adsabs.harvard.edu/abs/2025jwst.prop.7073L/abstract">Cosmic Shoreline program</a>, a large JWST program of which I am co-I, in which we seek to answer the question of whether rocky M-dwarf planets have atmospheres through a population-level study across a host of multiplanet systems.</p>
@@ -48,7 +48,7 @@ html[data-theme="dark"] .projects h2.category {
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px">
   <figure style="margin: 0; margin-right: 20px;">
     <img src="/assets/img/Bennett_2026_lhs1140b.png" alt="LHS 1140 b observations" style="width: 350px; border-radius: 5px;">
-    <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 200px;">Figure 3 from <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260813473B/abstract">Bennett et al. 2026a</a>. </figcaption>
+    <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 350px;">Figure 3 from <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260813473B/abstract">Bennett et al. 2026a</a>. </figcaption>
   </figure>
   <div>
     <p>Through this Cosmic Shoreline program, we were able to follow up on the recently reported helium detection on the low-mass planet LHS 1140 b, which suggested this planet has a secondary atmosphere fractionated by mass-loss. Our JWST observations were sensitive to this reported signal, yet we demonstrated in <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260813473B/abstract">a recent paper under review</a> that helium was not detected in our JWST transits, suggesting the signal may have been spurious or occurs less than 50% of the time.</p>
@@ -70,7 +70,7 @@ html[data-theme="dark"] .projects h2.category {
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <figure style="margin: 0; margin-right: 20px;">
     <img src="/assets/img/Bennett_2025_ltt1445c_flare.png" alt="flare" style="width: 500px; border-radius: 5px;">
-    <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 200px;">Figure 2 from <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....169..111B/abstract">Bennett et al. 2025a</a>. </figcaption>
+    <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 500px;">Figure 2 from <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....169..111B/abstract">Bennett et al. 2025a</a>. </figcaption>
   </figure>
   <div>
     <p>Understanding the evolution and erosion of rocky exoplanet atmospheres is not possible without understanding the contributions from the planets' host star. Flares are a major driver of atmospheric evolution, and it has recently been proposed that we are greatly underestimating the impacts that flares have because most studies rely on optical flare rates. However, M dwarfs likely flare in the near-ultraviolet (NUV) much more than in the optical. Without a complete picture of the frequency and spectral energy distribution (SED) of these flares, our models of flare-driven atmospheric evolution lack a solid empirical foundation. To address this, I am the <a href="https://ui.adsabs.harvard.edu/abs/2025hst..prop18140B/abstract">PI of an accepted HST program </a> to characterize the NUV flare rates and SEDs (similar to that pictured, which is from LTT 1445C) on our closest neighbor, Proxima Centauri. </p>
