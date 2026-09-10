@@ -48,6 +48,13 @@ html[data-theme="dark"] .projects h2.category {
 
 ## What impact do flares have on planetary atmospheres?
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/assets/img/Bennett_2025_ltt1445c_flare.png" alt="flare" style="width: 500px; margin-right: 20px; border-radius: 5px;">
+  <div>
+    <p>Understanding the evolution and erosion of rocky exoplanet atmospheres is not possible without understanding the contributions from the planets' host star. Flares are a major driver of atmospheric evolution, and it has recently been proposed that we are greatly underestimating the impacts that flares have because most studies rely on optical flare rates. However, M dwarfs likely flare in the near-ultraviolet (NUV) much more than in the optical, and without a complete picture of the frequency and spectral energy distribution (SED) of these flares, our models of flare-driven atmospheric evolution lack a solid empirical foundation. To address this, I am the <a href="https://ui.adsabs.harvard.edu/abs/2025hst..prop18140B/abstract">PI of an accepted HST program </a> to characterize the NUV flare rates and SEDs on our closest neighbor, Proxima Centauri. This program came about because I happened to observe a flare on LTT 1445C (pictured), one of the other stars in the triplet hierarchical system mentioned above, during one of our observations of LTT 1445A b. This made me realize the potential of HST for NUV/optical flare studies. </p>
+  </div>
+</div>
+
 ## Can we learn about the geologic history of airless exoplanets?
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
