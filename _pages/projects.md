@@ -79,5 +79,16 @@ html[data-theme="dark"] .projects h2.category {
 
 ## Does atmospheric composition encode how giant planets formed?
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <figure style="margin: 0; margin-right: 20px;">
+    <img src="/assets/img/Bennett_2026_h11b_mass_metallicity.png" alt="flare" style="width: 350px; border-radius: 5px;">
+    <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 350px;">Figure 10 from Bennett et al. 2026b (in review). </figcaption>
+  </figure>
+  <div>
+    <p>While detecting atmospheres on rocky exoplanets have proved challenging, for giant planets, we are past the detection stage and are now deeply characterizing these planets' atmospheric chemistry and physics via feature-rich, panchromatic spectra. One of the biggest lines of inquiry seeks to tie atmospheric composition to planet formation. Planets that form via core accretion are expected to have an inverse relationship between mass and "metallicity" (or the amount of elements other than hydrogen and helium), as larger planets are thought to more efficiently accrete H/He during planet formation. This "mass-metallicity" trend is well-established in the Solar System, but whether it is ubiquitous across all systems is yet unknown. To determine if this is true, I am a <a href="https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5924S/abstract">co-I on the Grand Tour large JWST program</a>, which seeks to quantify atmospheric metallicity and chemical trends for transiting planets at the population level. As part of this program, I led an analysis of the warm Neptune HAT-P-11 b (this paper is currently under review at AJ) and found that this planet's metallicity is well in line with the solar system trend, supporting the notion that most planets form in a similar manner. </p>
+  <p>Another emerging method by which to tie atmospheric composition to formation is to use the ratio between a planet's refractory and volatile budget to determine formation location relative to snow lines. While this is infeasible for most planets, as the refractory elements are locked away in the planetary interior, it becomes possible for the clear ultrahot Jupiters, where the equilibrium temperature is so hot that refractory elements are in the gas phase. I am  <a href="https://ui.adsabs.harvard.edu/abs/2024jwst.prop.5924S/abstract">co-I of a JWST program</a> to measure this refractory-to-volatile ratio for the ultrahot Jupiter WASP-178 b.</p>
+  </div>
+</div>
+
 ## Do giant planets have distinct morning and evening climates?
 
