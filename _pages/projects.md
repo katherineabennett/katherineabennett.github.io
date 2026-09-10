@@ -99,7 +99,7 @@ html[data-theme="dark"] .projects h2.category {
     <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 350px;">Figure 2 from <a href="https://ui.adsabs.harvard.edu/abs/2026Sci...392..858M/abstract">Mukherjee et al. 2026</a>. </figcaption>
   </figure>
   <div>
-    <p> The above mentioned Grand Tour program has also uncovered that hot Jupiters do not have homogenous atmospheres. Rather, it is emerging that the mornings tend to be cooler and possibly more hazy, while the evenings are clearer and hotter (as pictured). This effect may be in some way tied to a planet's temperature (affecting the wind speeds) and surface gravity (affecting the settling of haze/condensate particles). To quantify these trends, next year we will embark on a deeper exploration of these morning-evening limb asymmetries via a new <a href="https://www.stsci.edu/jwst/science-execution/program-information">large JWST program of which I am a co-I</a>. </p>
+    <p> The above mentioned Grand Tour program has also uncovered that hot Jupiters do not have homogenous atmospheres. Rather, it is emerging that the mornings tend to be cooler and possibly more hazy, while the evenings are clearer and hotter (as pictured). This effect may be in some way tied to a planet's temperature (affecting the wind speeds) and surface gravity (affecting the settling of haze/condensate particles). To quantify these trends, next year we will embark on a deeper exploration of these morning-evening limb asymmetries via a new <a href="https://www.stsci.edu/jwst-program-info/download/jwst/pdf/9709/">large JWST program of which I am a co-I</a>. </p>
   </div>
 </div>
 
