@@ -26,8 +26,8 @@ html[data-theme="dark"] .projects h2.category {
 <p>The first step toward quantifying habitability in the Galaxy is determining which rocky exoplanets have atmospheres. Planets orbiting the small and cool M dwarfs are the most observationally accessible to probe this question, yet they might also be the planets least likely to retain atmospheres due to the high-energy radiation environment of their host stars. There is a large community effort to map the dividing line between planets with and without atmospheres, and I have contributed to this question through projects on three high-profile targets:</p>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <figure style="margin: 0; margin-right: 20px; ; width: 350px">
-    <img src="/assets/img/Bennett_2025_ltt1445ab_hst.png" alt="LTT 1445 A b HST observations" style="width: 350px; margin-right: 20px; border-radius: 5px;">
+  <figure style="margin: 0; margin-right: 20px;">
+    <img src="/assets/img/Bennett_2025_ltt1445ab_hst.png" alt="LTT 1445 A b HST observations" style="width: 350px; border-radius: 5px;">
     <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 200px;">Figure 13 from <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....169..111B/abstract">Bennett et al. 2025a</a>. </figcaption>
   </figure>
   <div>
@@ -36,8 +36,8 @@ html[data-theme="dark"] .projects h2.category {
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <figure style="margin: 0; margin-right: 20px; ; width: 500px">
-    <img src="/assets/img/Bennett_2025_gj1132b.png" alt="GJ 1132 b JWST observations" style="width: 500px; margin-right: 20px; border-radius: 5px;">
+  <figure style="margin: 0; margin-right: 20px;">
+    <img src="/assets/img/Bennett_2025_gj1132b.png" alt="GJ 1132 b JWST observations" style="width: 500px; border-radius: 5px;">
     <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 200px;">Figure 6 from <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....170..205B/abstract">Bennett et al. 2025b</a>. </figcaption>
   </figure>
   <div>
@@ -46,7 +46,7 @@ html[data-theme="dark"] .projects h2.category {
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px">
-  <figure style="margin: 0; margin-right: 20px; ; width: 350px">
+  <figure style="margin: 0; margin-right: 20px;">
     <img src="/assets/img/Bennett_2026_lhs1140b.png" alt="LHS 1140 b observations" style="width: 350px; border-radius: 5px;">
     <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 200px;">Figure 3 from <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260813473B/abstract">Bennett et al. 2026a</a>. </figcaption>
   </figure>
@@ -68,7 +68,7 @@ html[data-theme="dark"] .projects h2.category {
 ## What impact do flares have on planetary atmospheres?
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <figure style="margin: 0; margin-right: 20px; ; width: 500px">
+  <figure style="margin: 0; margin-right: 20px;">
     <img src="/assets/img/Bennett_2025_ltt1445c_flare.png" alt="flare" style="width: 500px; border-radius: 5px;">
     <figcaption style="font-size: 0.85em; color: #666; text-align: center; margin-top: 5px; width: 200px;">Figure 2 from <a href="https://ui.adsabs.harvard.edu/abs/2025AJ....169..111B/abstract">Bennett et al. 2025a</a>. </figcaption>
   </figure>
