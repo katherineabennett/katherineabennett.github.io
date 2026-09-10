@@ -26,12 +26,12 @@ html[data-theme="dark"] .projects h2.category {
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/assets/img/Bennett_2025_gj1132b.png" alt="Do nearby rocky exoplanets orbiting M dwarfs have atmospheres?" style="width: 200px; margin-right: 20px; border-radius: 5px;">
   <div>
-    <p>The first step towarding quantifying habitability in the Galaxy is determining which rocky exoplanets have atmospheres. Planets orbiting the small and cool M dwarfs are the most observationally accessible to probe this question, yet they might also be the planets least likely to retain atmospheres due to the high-energy radiation environment of their host stars. There is a large community effort to map the dividing line between planets with and without atmospheres.</p>
+    <p>The first step towarding quantifying habitability in the Galaxy is determining which rocky exoplanets have atmospheres. Planets orbiting the small and cool M dwarfs are the most observationally accessible to probe this question, yet they might also be the planets least likely to retain atmospheres due to the high-energy radiation environment of their host stars. There is a large community effort to map the dividing line between planets with and without atmospheres, and I have contributed to this question through projects on three high-profile targets:</p>
     <p></p>
   </div>
 </div>
 
-## Planet Formation
+## Can we learn about the geologic history of airless exoplanets?
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/assets/img/formation.jpg" alt="Planet Formation" style="width: 200px; margin-right: 20px; border-radius: 5px;">
@@ -40,5 +40,9 @@ html[data-theme="dark"] .projects h2.category {
   </div>
 </div>
 
-## Past Projects
+## What impact do flares have on planetary atmospheres?
+
+## Does atmospheric composition encode how giant planets formed?
+
+## Do giant planets have distinct morning and evening climates?
 
