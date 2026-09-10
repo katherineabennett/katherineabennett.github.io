@@ -12,6 +12,12 @@ profile:
     <p>Olin 122</p>
     <p>3300 San Martin Drive</p>
     <p>Baltimore, MD 21218</p>
+    <p style="margin-top: 10px;">
+      <a href="mailto:kbenne50@jhu.edu" title="Email"><i class="fa-solid fa-envelope"></i></a> &nbsp;
+      <a href="https://orcid.org/0000-0002-9030-0132" target="_blank" title="ORCID"><i class="ai ai-orcid"></i></a> &nbsp;
+      <a href="https://github.com/katherineabennett" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a> &nbsp;
+      <a href="https://www.linkedin.com/in/katherine-a-bennett-9b9b79142/" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+    </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
