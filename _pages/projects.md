@@ -9,7 +9,7 @@ display_categories: [Ongoing, Past]
 horizontal: false
 ---
 
-[View all my publications on NASA ADS](https://ui.adsabs.harvard.edu/user/libraries/7Hh68u2QTgah-zm5u182GQ){:target="_blank"}
+[View my publications on NASA ADS](https://ui.adsabs.harvard.edu/user/libraries/7Hh68u2QTgah-zm5u182GQ){:target="_blank"}
 
 <!-- pages/projects.md -->
 <div class="projects">
