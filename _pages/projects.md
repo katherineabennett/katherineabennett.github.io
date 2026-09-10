@@ -5,11 +5,22 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Ongoing, Past]
+display_categories: [Do Most Nearby Rocky Exoplanets Orbiting M Dwarfs Have Atmospheres?]
 horizontal: false
 ---
 
 [View my publications on NASA ADS](https://ui.adsabs.harvard.edu/user/libraries/7Hh68u2QTgah-zm5u182GQ){:target="_blank"}
+
+<style>
+.projects h2.category {
+  color: #000000 !important;
+}
+
+/* For dark mode */
+html[data-theme="dark"] .projects h2.category {
+  color: #ffffff !important;
+}
+</style>
 
 <!-- pages/projects.md -->
 <div class="projects">
