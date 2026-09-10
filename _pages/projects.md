@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Do Most Nearby Rocky Exoplanets Orbiting M Dwarfs Have Atmospheres?]
+display_categories: ['Do Most Nearby Rocky Exoplanets Orbiting M Dwarfs Have Atmospheres?']
 horizontal: false
 ---
 
