@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: ['Do Most Nearby Rocky Exoplanets Orbiting M Dwarfs Have Atmospheres?']
+display_categories: ['Do nearby rocky exoplanets orbiting M dwarfs have atmospheres?', 'Can we learn about the geologic history of airless exoplanets?', 'What impact do flares have on planetary atmospheres?', 'Does atmospheric composition encode how giant planets formed?', 'Do giant planets have distinct morning and evening climates?']
 horizontal: false
 ---
 
