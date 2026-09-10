@@ -46,7 +46,7 @@ html[data-theme="dark"] .projects h2.category {
   </div>
 </div>
 
-## Can we learn about the geologic history of airless exoplanets?
+## What can we learn about the geology of airless exoplanets?
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div>
