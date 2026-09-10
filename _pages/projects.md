@@ -24,7 +24,7 @@ html[data-theme="dark"] .projects h2.category {
 ## Do nearby rocky exoplanets orbiting M dwarfs have atmospheres?
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/assets/img/atmospheres.jpg" alt="Do nearby rocky exoplanets orbiting M dwarfs have atmospheres?" style="width: 200px; margin-right: 20px; border-radius: 5px;">
+  <img src="/assets/img/Bennett_2025_gj1132b.png" alt="Do nearby rocky exoplanets orbiting M dwarfs have atmospheres?" style="width: 200px; margin-right: 20px; border-radius: 5px;">
   <div>
     <p>The first step towarding quantifying habitability in the Galaxy is determining which rocky exoplanets have atmospheres. Planets orbiting the small and cool M dwarfs are the most observationally accessible to probe this question, yet they might also be the planets least likely to retain atmospheres due to the high-energy radiation environment of their host stars. There is a large community effort to map the dividing line between planets with and without atmospheres.</p>
     <p></p>
