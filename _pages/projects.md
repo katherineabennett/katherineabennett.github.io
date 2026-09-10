@@ -5,7 +5,6 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: ['Do nearby rocky exoplanets orbiting M dwarfs have atmospheres?', 'Can we learn about the geologic history of airless exoplanets?', 'What impact do flares have on planetary atmospheres?', 'Does atmospheric composition encode how giant planets formed?', 'Do giant planets have distinct morning and evening climates?']
 horizontal: false
 ---
 
@@ -21,6 +20,34 @@ html[data-theme="dark"] .projects h2.category {
   color: #ffffff !important;
 }
 </style>
+
+## Exoplanet Atmospheres
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/assets/img/atmospheres.jpg" alt="Exoplanet Atmospheres" style="width: 200px; margin-right: 20px; border-radius: 5px;">
+  <div>
+    <p>I am co-I on multiple JWST programs studying the physics and chemistry of giant exoplanet atmospheres, exploring topics ranging from atmospheric dynamics to planet formation.</p>
+    <p>Current projects include investigations of hot Jupiter circulation patterns, atmospheric chemistry, and brown dwarf companions.</p>
+  </div>
+</div>
+
+## Planet Formation
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/assets/img/formation.jpg" alt="Planet Formation" style="width: 200px; margin-right: 20px; border-radius: 5px;">
+  <div>
+    <p>Description of your planet formation research goes here. You can include background, methods, key results, and links to related papers.</p>
+  </div>
+</div>
+
+## Past Projects
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/assets/img/past_project.jpg" alt="Past Project" style="width: 200px; margin-right: 20px; border-radius: 5px;">
+  <div>
+    <p>Description of past research...</p>
+  </div>
+</div>
 
 <!-- pages/projects.md -->
 <div class="projects">
