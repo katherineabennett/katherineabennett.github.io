@@ -6,5 +6,5 @@ nav: true
 nav_order: 1
 cv_pdf: /assets/pdf/Bennett_CV_Fall2026.pdf
 ---
-[**Download my CV (PDF)**](/assets/pdf/Bennett_CV_Fall2026.pdf){:target="_blank"}
+[**Download my CV (PDF)**](/assets/pdf/Bennett_CV_Fall_2026.pdf){:target="_blank"}
 ---
